@@ -19,10 +19,12 @@ git clone https://github.com/jellyCodee/e-commerce-app.git
 Now let's see what the button looks like shall we
 
 Button Off
+
 <img src="/assets/images/button_off.jpg" width="250" height="500">
 
 
 Button On
+
 <img src="/assets/images/button_on.jpg" width="250" height="500">
 
 
